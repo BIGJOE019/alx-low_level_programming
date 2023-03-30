@@ -12,7 +12,7 @@ Insights
 alx-low_level_programming/0x06-pointers_arrays_strings/main.c
 @RichPhilip
 RichPhilip arrays pointers and string
- 1 contributor
+1 contributor
 80 lines (68 sloc)  1.09 KB
 #include "main.h"
 #include <limits.h>
